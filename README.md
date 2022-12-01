@@ -1,5 +1,5 @@
 
-# Olá, eu sou o Samuel Anselmo, graduando em Engenahria de Software!
+# Olá, eu sou o Samuel Anselmo, graduando em Engenharia de Software!
 <div align="center">
   <a href="https://github.com/saamuelsam">
   
