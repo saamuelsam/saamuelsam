@@ -1,5 +1,7 @@
 
+
 # Olá, eu sou o Samuel Anselmo, graduando em Engenharia de Software!
+![Debbie Balboa](https://user-images.githubusercontent.com/100050645/206638282-6427e39e-5c92-4f9e-9100-c23948a49ff1.gif) 
 <div align="center">
   <a href="https://github.com/saamuelsam">
   
@@ -14,12 +16,12 @@
   
 </div>
   
-  ##
- 
+  
+ ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/100050645/206635972-e95a218a-8193-4e0f-a9e7-d8f466f9c824.gif)
+
 <div> 
  
-  
-  <img src="https://github.com/saamuelsam/saamuelsam/../image.gif "/>
+
 
   <a href="https://www.instagram.com/saamuel.anselmo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/eusamuel_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
