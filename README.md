@@ -12,6 +12,8 @@
   <a href="https://github.com/saamuelsam">
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=saamuelsam&bg_color=000000&color=850e58&line=ca6f9e&point=fff0ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 #
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&color=0CF711&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Skils%3A)](https://git.io/typing-svg)
