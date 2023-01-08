@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ebe28&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=1000&color=0CF711&width=435&lines=Hi%2C+my+name+is+Samuel+Anselmo;I'm+majoring+in+software+engineering;I'm+Front+End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=1000&color=0CF711&width=435&lines=My+name+is+Samuel+Anselmo;I'm+majoring+in+software+engineering;I'm+a+Front+End+Developer)](https://git.io/typing-svg)
 
 
   <div> 
@@ -12,7 +12,7 @@
   <a href="https://github.com/saamuelsam">
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=saamuelsam&bg_color=000000&color=850e58&line=ca6f9e&point=fff0ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=saamuelsam&bg_color=000000&color=850e58&line=0CF711FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #
 
