@@ -16,7 +16,7 @@
 
 #
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&color=0CF711&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Skils%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&color=0CF711&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Main+Skils%3A)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="sam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,12 +24,22 @@
   <img align="center" alt="sam-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="sam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="sam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  
 </div>
   
   #
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&color=0CF711&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Contact%3A)](https://git.io/typing-svg)
- 
- 
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&color=0CF711&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Currently+Studying%3A)](https://git.io/typing-svg)
+  
+  <div>
+   <img align="center" alt="sam-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  </div>
+  
+  #
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&color=0CF711&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Contact%3A)](https://git.io/typing-svg)
+  
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:contactsamans@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/samuel-anselmo-506440128/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
